@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
-{
+{ // first edit
     public class CartItem : ILineItem
     {
         [Key]
